@@ -15,4 +15,4 @@ console.log(media.toFixed(2)) // toFixed serve para determinar o número de casa
 console.log(media.toString()) // Transformar em string
 console.log(media.toString(2)) // Transformar em valor binário
 console.log(typeof media)
-console.log(typeof Number) // Number é umma função
+console.log(typeof Number) // Number é uma função
