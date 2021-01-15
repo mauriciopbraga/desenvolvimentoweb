@@ -1,6 +1,6 @@
 function resultadoFinal(nota){
     if(nota >= 7){
-        console.group('Aprobado com ' + nota)
+        console.group('Aprovado com ' + nota)
     }
 }
 
